@@ -1,6 +1,5 @@
-Project Title: Task Management Application
+Task Management Application
 
-Description:
 A simple Spring Boot-based web application that allows users to register, log in, and manage their personal tasks.
 
 --------------------------------------------------
