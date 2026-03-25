@@ -1,6 +1,6 @@
 # Task Management Application
 
-A simple Spring Boot-based web application that allows users to register, log in, and manage their personal tasks.
+A full-stack Spring Boot web application for managing daily tasks with user authentication and session management.
 
 ---
 
@@ -11,6 +11,14 @@ A simple Spring Boot-based web application that allows users to register, log in
 - Update task details and duration
 - Update user profile (username, email, password)
 - Logout functionality
+
+---
+
+## How It Works
+- Users register and log in
+- A session is created after login
+- Users can create and manage tasks
+- Only authenticated users can access features
 
 ---
 
