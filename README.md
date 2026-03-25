@@ -16,9 +16,9 @@ Features:
 
 Tech Stack:
 - Backend: Java, Spring Boot, Spring MVC
-- Frontend: Thymeleaf
+- Frontend: JSP
 - Build Tool: Maven
-- Database: Configure in application.properties
+- Database: PostgreSQL
 
 --------------------------------------------------
 
@@ -27,9 +27,16 @@ Project Structure:
 src/main/java/com/project1/task_management_app/
     controller/
     service/
+    repository/
+    dao/
+    entity/
     model/
     dto/
     exception/
+
+Main Classes:
+    TaskManagementAppApplication.java
+    ServletInitializer.java
 
 --------------------------------------------------
 
